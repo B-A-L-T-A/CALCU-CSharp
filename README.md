@@ -1,2 +1,2 @@
-# CALCU-C-
+# CALCU-C#
 Una linda calculadora programada en C#
